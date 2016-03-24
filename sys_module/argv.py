@@ -1,7 +1,7 @@
-#!/usr/bin/env python
+#!/usr/bin/env Python
 # -*- coding: utf-8 -*-
  
- 'a test module'
+ 'argv for sys module'
   
   __author__ = 'Jason'
    
