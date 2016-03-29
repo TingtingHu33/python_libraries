@@ -6,7 +6,16 @@
 
 __author__ = 'AJ Kipper'
 
-import psutil as p
+import psutil
 
 #CPU info
-print u'cpu counts:%s' % p.cpu_count() 
+print psutil.cpu_times()
+print u'cpu counts:%s' % psutil.cpu_count()
+
+
+#Get system process list
+for p in psutil.process_iter():
+    try:
+        print p
+    except psutil.Error:
+        pass
