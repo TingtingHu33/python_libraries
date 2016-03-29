@@ -15,3 +15,10 @@ def Hello():
     except:
         print 'Hello!'
 
+#获得Python解释器的版本
+print sys.copyright
+
+#使用import时查找的所有模块路劲，是一个list类型，可以进行list相关操作
+print sys.path
+sys.path.append('your module path')
+
