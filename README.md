@@ -1,7 +1,6 @@
 README
 ==========
-The basic use and application of a small example of the continuous accumulation of Python modules.
-**********
+The purpose of this repository is to accumulate all modules for Python. Include Python Standard Library and non-standard Library.Mainly to introduce the basic methods and some common examples.
 ######The Python Standard Library(Version:2.7.11)
 
 **Interprocess Communication and Networking**
@@ -28,7 +27,7 @@ curses -------------------- Terminal interface and keyboard mode
 
 
 ==========
-不断积累Python各个模块的基本使用和应用小例子。
+这个仓库目的主要是积累Python所有模块的用法，包括标准库和第三方库。主要是介绍几本用法和一些常见的例子。
 **********
 ######Python标准库(版本：2.7.11)
 
