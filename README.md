@@ -13,6 +13,9 @@ The purpose of this repository is to accumulate all modules for Python. Include 
 1. sys ----------------------- System-specific parameters and functions
 
 
+**String Services**
+1. re ------------------------ Regular expression operations
+
 **Generic Operating System Services**
 
 1. os ------------------------ Miscellaneous operating system interfaces
@@ -24,6 +27,8 @@ The purpose of this repository is to accumulate all modules for Python. Include 
 1. psutil -------------------- System and process utilities
 
 2. curses -------------------- Terminal interface and keyboard mode
+
+3. MySQLdb ------------------- The Python database API for MySQL
 
 
 ==========
@@ -39,16 +44,21 @@ The purpose of this repository is to accumulate all modules for Python. Include 
 
 1. sys ----------------------- 操作系统参数和功能
 
+**字符串服务**
+1. re ------------------------ 正则表达式操作
+
 **通用操作系统服务**
 
 1. os ------------------------ 通用操作系统接口
 
-1. time ---------------------- 时间访问和转换
+2. time ---------------------- 时间访问和转换
 
 ######Python第三方库
 
-2. psutil -------------------- 系统和过程工具
+1. psutil -------------------- 系统和过程工具
 
 2. curses -------------------- 终端界面和键盘模式
+
+3. MySQLdb ------------------- Python在MySQL数据库的API
 
 
