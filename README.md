@@ -14,6 +14,7 @@ The purpose of this repository is to accumulate all modules for Python. Include 
 
 
 **String Services**
+
 1. re ------------------------ Regular expression operations
 
 **Generic Operating System Services**
@@ -45,6 +46,7 @@ The purpose of this repository is to accumulate all modules for Python. Include 
 1. sys ----------------------- 操作系统参数和功能
 
 **字符串服务**
+
 1. re ------------------------ 正则表达式操作
 
 **通用操作系统服务**
