@@ -1,6 +1,7 @@
-[English Version](/README/)
+[English Version](#EV)
+[Chinese Version](#CV)
 
-README
+<span id = 'EV'>README</span>
 ==========
 The purpose of this repository is to accumulate all modules for Python. Include Python Standard Library and non-standard Library.Mainly to introduce the basic methods and some common examples.
 
@@ -40,7 +41,7 @@ The purpose of this repository is to accumulate all modules for Python. Include 
 
 3. MySQLdb ------------------- The Python database API for MySQL
 
-自述(中文版)
+<span id = 'CV'>自述</span>
 ==========
 这个仓库目的主要是积累Python所有模块的用法，包括标准库和第三方库。主要是介绍几本用法和一些常见的例子。
 **********
