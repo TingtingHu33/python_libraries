@@ -17,6 +17,10 @@ The purpose of this repository is to accumulate all modules for Python. Include 
 
 1. re ------------------------ Regular expression operations
 
+**Internet Data Handling**
+
+1. json ---------------------- JSON encoder and decoder
+
 **Generic Operating System Services**
 
 1. os ------------------------ Miscellaneous operating system interfaces
@@ -48,6 +52,10 @@ The purpose of this repository is to accumulate all modules for Python. Include 
 **字符串服务**
 
 1. re ------------------------ 正则表达式操作
+
+**互联网数据处理**
+
+1. json ---------------------- json数据处理
 
 **通用操作系统服务**
 
