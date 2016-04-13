@@ -1,8 +1,45 @@
+#####Select your language.
+
+-------------
+
+* [English Version](#EV)
+
+* [Chinese Version](#CV)
+
+---------
+
+<h4 id = 'EV'>README</h4>
+
+---------
+
+**RE (Regular Expression)**
+
+
+1. **What's Regular expression**
+
+A regular expression is a concept in the field of computer. Use a single string to describe, match a series of a string of grammar rules. In a text editor, but also useful regular expressions to search, replace the text that matches a pattern.
+
+You can think like this, Regular expression is equivalent to a logical formula, the formula for the operation of the text, brush to choose the string in line with this formula, the equivalent of a filter logic. For example, find all the numbers in the text, find the number in the digital text in line with the number of phone numbers.
+
+2. **Regular expression features**
+
+* flexibility, logic and functionality are very strong;
+* you can quickly reach the complex control of a string in a very simple way.
+* for people who have just come in contact, it is more difficult to understand.
+
+3. **Use Regular expression in Python**
+
+Regular expression itself is in the field of computer a concept, and language is no relationship, is not to say that because Python only the regular expression, is only a supporting regular expression of the re module in the python language, and the re module belongs to Python's standard library modules.
+
+
+---------
+
+<h4 id = 'CV'>自述</h4>
+
 ---------
 
 **RE (Regular Expression)，正则表达式**
 
----------
 
 1. **什么是正则表达式**
 
