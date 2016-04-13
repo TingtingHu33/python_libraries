@@ -10,7 +10,7 @@
 
 <h4 id = 'EV'>README</h4>
 
-----------
+---------
 
 **os module in Python**
 
@@ -21,11 +21,11 @@ os is an operating system interface module. Python has many modules that use the
 They provide a platform independent interface to the underlying operating system.
 os module can carry out the operation of the document, the process of processing, etc..
 
-----------
+---------
 
 **Code files description**
 
-----------
+---------
 
 **file_handle.py**
 
@@ -35,7 +35,7 @@ This file mainly introduces the basic usage of OS module files, directories, inc
 
 <h4 id = 'CV'>自述</h4>
 
-----------
+---------
 
 **Pyhton中的os模块**
 
