@@ -8,5 +8,12 @@ __author__ = 'AJ Kipper'
 
 import os
 
+'''查看系统环境变量'''
 
+for i in os.environ:
+	print i
 
+print os.environ['LOGNAME']
+
+print type(os.environ)
+print type(os._Environ)
