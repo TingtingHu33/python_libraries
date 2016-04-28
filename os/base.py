@@ -16,4 +16,3 @@ for i in os.environ:
 print os.environ['LOGNAME']
 
 print type(os.environ)
-print type(os._Environ)
