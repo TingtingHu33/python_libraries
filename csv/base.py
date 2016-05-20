@@ -38,7 +38,8 @@ with open('WriteCsvFile.csv', 'w') as csvfile:
 	writer.writerows(data)
 
 '''
-WriteCsvFile.csv 文件内容:
-A A A A A B
-Hello |This is a test| |Not bad|
+id,name,age
+1,Jason,20
+2,AJKipper,18
+3,Eminem,30
 '''
