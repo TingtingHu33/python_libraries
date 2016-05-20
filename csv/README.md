@@ -1,23 +1,10 @@
-#####Select your language.
+#####自述
 
----------
+---
 
-* [English Version](#EV)
+有些人对数据进行csv格式文件的读写不了解,所以这里写了简单的读写例子。
 
-* [Chinese Version](#CV)
+* ReadCsvFile.csv是要进行读取的文件。
+* WriteCsvFile.csv是要进行写入的文件。
+* 代码都在base.py里面。
 
----------
-
-<h4 id = 'EV'>README</h4>
-
----------
-
-**time module in Python**
-
----------
-
-<h4 id = 'CV'>自述</h4>
-
----------
-
-**Python中的csv模块**
