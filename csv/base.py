@@ -28,10 +28,14 @@ with open('ReadCsvFile.csv', 'r') as csvfile:
 进行csv文件的写入
 '''
 with open('WriteCsvFile.csv', 'w') as csvfile:
-	spamwriter = csv.writer(csvfile, delimiter=' ',quotechar='|', quoting=csv.QUOTE_MINIMAL)
-	#写入数据必须是list类型
-	spamwriter.writerow(['A'] * 5 + ['B'])
-	spamwriter.writerow(['Hello', 'This is a test', 'Not bad'])
+	writer = csv.writer(csvfile)
+	writer.writerow(['id', 'name', 'age'])
+	data = [
+		('1', 'Jason','20'),
+		('2', 'AJKipper','18'),
+		('3', 'Eminem','30')
+	]
+	writer.writerows(data)
 
 '''
 WriteCsvFile.csv 文件内容:
